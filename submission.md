@@ -9,7 +9,7 @@ SE441-HW5
 
 #5 pts Your Github account showing that is has been forked from the depaulcdm/springpetclinic
 repository.
-![Screen Capture #1](images/BurkeS-ScreenCapture_1.png)
+![Screen Capture #1](Images/BurkeS-ScreenCapture_1.png)
 
 #5 pts Your Travis CI dashboard showing a successful first build.
 ![Screen Capture #2](images/BurkeS-ScreenCapture_2.png)
