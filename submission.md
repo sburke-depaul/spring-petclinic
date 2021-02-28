@@ -9,39 +9,39 @@ SE441-HW5
 
 #5 pts Your Github account showing that is has been forked from the depaulcdm/springpetclinic
 repository.
-![Screen Capture #1](Images/BurkeS-ScreenCapture_1.png)
+![Screen Capture #1](Images/BurkeS-ScreenCapture_1.PNG)
 
 #5 pts Your Travis CI dashboard showing a successful first build.
-![Screen Capture #2](images/BurkeS-ScreenCapture_2.png)
+![Screen Capture #2](Images/BurkeS-ScreenCapture_2.PNG)
 
 #5 pts The section of the POM file showing the coordinates after you’ve changed them.
-![Screen Capture #3](images/BurkeS-ScreenCapture_3.png)
+![Screen Capture #3](Images/BurkeS-ScreenCapture_3.PNG)
 
 #5 pts Your Travis CI dashboard showing a successful build after your change of the group
 ID.
-![Screen Capture #4](images/BurkeS-ScreenCapture_4.png)
+![Screen Capture #4](Images/BurkeS-ScreenCapture_4.PNG)
 #The image shows 3, because I did a manually build at first; then I went back and committed my changes and then the build was automatic
 
 #5 pts The section of the POM file showing the coordinates after you’ve commented them
 out.
-![Screen Capture #5](images/BurkeS-ScreenCapture_5.png)
+![Screen Capture #5](Images/BurkeS-ScreenCapture_5.PNG)
 
 #5 pts Your Travis CI dashboard showing the unsuccessful build after the breaking change.
-![Screen Capture #6](images/BurkeS-ScreenCapture_6.png)
+![Screen Capture #6](Images/BurkeS-ScreenCapture_6.PNG)
 
 #5 pts Your Github repository with the readme.md file selected showing the build failed
 status after the Travis CI build fails.
-![Screen Capture #7](images/BurkeS-ScreenCapture_7.png)
+![Screen Capture #7](Images/BurkeS-ScreenCapture_7.PNG)
 
 #5 pts The section of the POM file showing the coordinates after you’ve fixed them.
-![Screen Capture #8](images/BurkeS-ScreenCapture_8.png)
+![Screen Capture #8](Images/BurkeS-ScreenCapture_8.PNG)
 
 #5 pts Your Travis CI dashboard showing the successful build after the breaking change has
 been fixed.
-![Screen Capture #9](images/BurkeS-ScreenCapture_9.png)
+![Screen Capture #9](Images/BurkeS-ScreenCapture_9.PNG)
 
 $5 pts Your Github repository with the readme.md file selected showing the build success
 status after the Travis CI build has recovered.
-![Screen Capture #10](images/BurkeS-ScreenCapture_10.png)
+![Screen Capture #10](Images/BurkeS-ScreenCapture_10.PNG)
 
 Submit a link to your repository in D2L. Make sure your Github repository is public.
